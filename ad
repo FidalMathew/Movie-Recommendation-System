@@ -1,0 +1,35 @@
+[33mcommit 241478e499d802a1fd04a8bf7db2e4744329472e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 23:24:10 2022 +0530
+
+    removed pkl files
+
+[33mcommit 9eb7ff73d36d2edd0df7780291c5567cdff52b17[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 23:19:12 2022 +0530
+
+    removed pkl files
+
+[33mcommit 226899c65de5f7c118e335a9853b56d65ff1d191[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 23:11:43 2022 +0530
+
+    removed pkl files
+
+[33mcommit 97f3814678ec7a40d2bef10ec655e27bc53832a9[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 22:37:55 2022 +0530
+
+    removed unwanted dependencies
+
+[33mcommit 5ecedf6ce33c1ea21f18596b15977e08d19ac5fa[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 22:30:29 2022 +0530
+
+    removed unwanted dependencies
+
+[33mcommit 941f8ae9193c704d5fe5cc95c586ecf282e8c89b[m
+Author: Fidal <fidal15perfect@gmail.com>
+Date:   Sun Aug 14 22:27:47 2022 +0530
+
+    first deployment
